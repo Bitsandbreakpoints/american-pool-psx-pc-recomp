@@ -100,6 +100,8 @@ game with **F1**).
 
 ## Controls
 
+Plug-and-play with modern controllers!
+
 | PS1 | Keyboard (player 1) | Controller |
 |---|---|---|
 | D-pad | Arrow keys | D-pad or left stick |
