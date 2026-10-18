@@ -8,6 +8,12 @@ improvements.
 **You need your own copy of the game.** The port reads the graphics, sound
 and data from a disc image that you make from your own original disc.
 
+<p align="center">
+  <img src="images/cover.jpg" alt="American Pool (USA), PlayStation, SLUS-01488 - front cover" width="320">
+  <br>
+  <em>The game this port needs: American Pool (USA), SLUS-01488. Cover © its respective owners.</em>
+</p>
+
 ![The launcher](images/launcher.png)
 
 ## Download
@@ -33,11 +39,12 @@ resolution. The game's graphics shown here are © their respective owners.*
 - **You must own the game.** To play, you need a dump (disc image) of your
   own original *American Pool (USA)* disc. This project does not provide,
   and will not help you find, game files.
-- **This repository contains no copyrighted game material:** no code,
-  graphics, sound, music, video or data files from the game, and no BIOS.
-  It holds only this README, the third-party licence list and two pictures
-  (the launcher, which uses a public-domain photo, and the in-game picture
-  above, shown for identification).
+- **This repository contains no game files:** no code, graphics, sound,
+  music, video or data files from the game, and no BIOS. It holds only
+  this README, the third-party licence list and three pictures: the
+  launcher (our own, with a public-domain photo), plus the box cover and an
+  in-game picture, which are © their respective owners and shown only to
+  identify the game.
 - **No game assets are distributed.** The release contains the port's own
   program and the licences of the open-source libraries it uses. Every
   graphic, sound and video is read at run time from your own disc image.

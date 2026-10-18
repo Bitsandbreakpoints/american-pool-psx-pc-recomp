@@ -23,6 +23,7 @@ neither is part of the program.
 |---|---|---|---|
 | Launcher background (built into the program, also in `images/launcher.png`) | MarkBuckawicki (own work, 2014) | CC0 1.0 (public domain) | [Wikimedia Commons: Billiards_Rack.JPG](https://commons.wikimedia.org/wiki/File:Billiards_Rack.JPG) |
 | `images/in-game.png` | a picture of the game running in this port | the game's graphics are © their respective owners; shown for identification | – |
+| `images/cover.jpg` | front cover of *American Pool (USA)*, SLUS-01488 | © its respective owners; shown for identification | [PSX Data Center](https://psxdatacenter.com/games/U/A/SLUS-01488.html) |
 
 The game's own files (graphics, sound, data) are not included anywhere in
 this repository or the release; they are read from the player's own disc.
