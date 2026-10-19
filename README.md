@@ -1,3 +1,5 @@
+![Bits and Breakpoints – reComps](images/banner.webp)
+
 # American Pool – PC port
 
 A native Windows version of the PlayStation game **American Pool**
@@ -41,7 +43,7 @@ resolution. The game's graphics shown here are © their respective owners.*
   and will not help you find, game files.
 - **This repository contains no game files:** no code, graphics, sound,
   music, video or data files from the game, and no BIOS. It holds only
-  this README, the third-party licence list and three pictures: the
+  this README, the third-party licence list and pictures: our banner, the
   launcher (our own, with a public-domain photo), plus the box cover and an
   in-game picture, which are © their respective owners and shown only to
   identify the game.
