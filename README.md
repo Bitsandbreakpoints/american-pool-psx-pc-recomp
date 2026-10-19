@@ -1,13 +1,13 @@
-![Bits and Breakpoints – reComps](images/banner.webp)
+![Bits and Breakpoints reComps](images/banner.webp)
 
-<p align="center"><strong>Classic games, recompiled for today – easy to play, with optional enhancements, for everyone.</strong></p>
+<p align="center"><strong>Classic games, recompiled for today. Easy to play, with optional enhancements, for everyone.</strong></p>
 
-# American Pool – PC port
+# American Pool PC port
 
 A native Windows version of the PlayStation game **American Pool**
-(SLUS-01488). It runs the game's own logic natively on Windows – no
-emulator and no BIOS – with sharper graphics and a number of quality-of-life
-improvements.
+(SLUS-01488). It runs the game's own logic natively on Windows, with
+no emulator and no BIOS, and adds sharper graphics and a number of
+quality-of-life improvements.
 
 **You need your own copy of the game.** The port reads the graphics, sound
 and data from a disc image that you make from your own original disc.
@@ -53,7 +53,7 @@ resolution. The game's graphics shown here are © their respective owners.*
   program and the licences of the open-source libraries it uses. Every
   graphic, sound and video is read at run time from your own disc image.
   The program is the game's logic rebuilt for Windows; it includes the
-  small tables the code needs (menu texts, table layouts – about 30 KB) but
+  small tables the code needs (menu texts, table layouts: about 30 KB) but
   none of the game's assets.
 - *American Pool* is a trademark of its owner. This is a non-commercial fan
   project and is not affiliated with or endorsed by DigiCube, Mud Duck
@@ -69,7 +69,7 @@ game with **F1**).
   menus kept pixel-exact.
 - **Precise vertices** (PGXP-like): no PS1 "wobble", and perspective-correct
   textures on the table, cloth and cue.
-- **Smooth 3D textures** – bilinear filtering of 3D surfaces only, so text
+- **Smooth 3D textures**: bilinear filtering of 3D surfaces only, so text
   and 2D graphics stay sharp.
 - **Round balls**: the balls are redrawn as sharp, shaded spheres with
   their numbers and stripes, instead of the original's low-resolution
@@ -84,7 +84,7 @@ game with **F1**).
 
 **Gameplay**
 - **Fast forward** (Triangle / Y): one press skips the computer's turn, the
-  rolling balls after your own shot, or the lag (banking) – the game runs
+  rolling balls after your own shot, or the lag (banking). The game runs
   as fast as it can until it is your turn or the balls stop.
 - **Skip the intro** logos.
 - **Quit from the title screen** with B / Esc.
@@ -128,10 +128,10 @@ shows the settings, **Triangle / Y** fast-forwards.
 
 Everything stays in the program's folder:
 
-- `settings.ini` – the settings.
-- `saves/memcard1.mcd` – the memory card (the path can be changed under
+- `settings.ini`: the settings.
+- `saves/memcard1.mcd`: the memory card (the path can be changed under
   **SETTINGS → SAVES**).
-- `american_pool.log` – a log for troubleshooting.
+- `american_pool.log`: a log for troubleshooting.
 
 ## FAQ
 
