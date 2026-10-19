@@ -1,5 +1,7 @@
 ![Bits and Breakpoints – reComps](images/banner.webp)
 
+<p align="center"><strong>Classic games, recompiled for today – easy to play, with optional enhancements, for everyone.</strong></p>
+
 # American Pool – PC port
 
 A native Windows version of the PlayStation game **American Pool**
